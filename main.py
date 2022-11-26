@@ -1,3 +1,3 @@
-from bot import merge-bot
+from bot import Bot
 
 Bot().run()
